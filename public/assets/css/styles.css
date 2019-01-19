@@ -1,3 +1,28 @@
+
+.icon {
+    float: left;
+    height: 50px !important;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.portfolio-tile {
+    width: 100%;
+    padding: 20px !important;
+}
+
+.social-icon {
+    height: 100px;
+}
+
+.social-link {
+    padding: 20px;
+}
+
+#contact {
+    padding-bottom: 50px;
+}
+
 /* W3.CSS 4.12 November 2018 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
